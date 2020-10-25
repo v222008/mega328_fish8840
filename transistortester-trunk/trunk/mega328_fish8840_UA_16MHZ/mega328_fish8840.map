@@ -1,0 +1,1972 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+                              ../Obj/mega328_fish8840/ReadADC.o (__mulsi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+                              ../Obj/mega328_fish8840/lcd-draw.o (__udivmodqi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                              ../Obj/mega328_fish8840/RefVoltage.o (__udivmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                              ../Obj/mega328_fish8840/function_menu.o (__divmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                              ../Obj/mega328_fish8840/DisplayValue.o (__udivmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                              ../Obj/mega328_fish8840/main.o (__divmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                              ../Obj/mega328_fish8840/lcd-routines.o (__tablejump2__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              ../Obj/mega328_fish8840/lcd-routines.o (__do_clear_bss)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                              ../Obj/mega328_fish8840/main.o (__umulhisi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+                              ../Obj/mega328_fish8840/main.o (__usmulhisi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                              ../Obj/mega328_fish8840/main.o (__muluhisi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+                              ../Obj/mega328_fish8840/ReadCapacity.o (__mulshisi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+                              ../Obj/mega328_fish8840/GetFrequency.o (__umulsidi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+                              ../Obj/mega328_fish8840/GetFrequency.o (__udivdi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o) (__udivmod64)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                              ../Obj/mega328_fish8840/lcd-routines.o (__prologue_saves__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                              ../Obj/mega328_fish8840/lcd-routines.o (__epilogue_restores__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o) (__muldi3_6)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+                              ../Obj/mega328_fish8840/DisplayValue.o (__ultoa_ncheck)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+                              ../Obj/mega328_fish8840/i2lcd.o (utoa)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o) (__utoa_ncheck)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o) (strrev)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+                              ../Obj/mega328_fish8840/lcd-routines.o (eeprom_read_byte)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o)
+                              ../Obj/mega328_fish8840/show_Resis_Cap.o (eeprom_read_word)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+                              ../Obj/mega328_fish8840/main.o (eeprom_write_byte)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_word.o)
+                              ../Obj/mega328_fish8840/main.o (eeprom_write_word)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_block.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o) (eeprom_read_blraw)
+
+Allocating common symbols
+Common symbol       size              file
+
+diode_sequence      0x1               ../Obj/mega328_fish8840/main.o
+ext_freq            0x4               ../Obj/mega328_fish8840/main.o
+display_time        0x2               ../Obj/mega328_fish8840/main.o
+lc_fx               0x4               ../Obj/mega328_fish8840/sampling_lc.o
+resis680mi          0x2               ../Obj/mega328_fish8840/main.o
+icon_yy             0x1               ../Obj/mega328_fish8840/lcd-routines.o
+ref_mv_offs         0x2               ../Obj/mega328_fish8840/main.o
+NumOfDiodes         0x1               ../Obj/mega328_fish8840/main.o
+PartMode            0x1               ../Obj/mega328_fish8840/main.o
+PartFound           0x1               ../Obj/mega328_fish8840/main.o
+resis680pl          0x2               ../Obj/mega328_fish8840/main.o
+tmpval              0x1               ../Obj/mega328_fish8840/main.o
+last_text_column    0x1               ../Obj/mega328_fish8840/lcd-routines.o
+adc_vcc_reference   0x2               ../Obj/mega328_fish8840/main.o
+inductor_lpre       0x1               ../Obj/mega328_fish8840/main.o
+mess_count          0x1               ../Obj/mega328_fish8840/main.o
+last_text_line      0x1               ../Obj/mega328_fish8840/lcd-routines.o
+outval              0xa               ../Obj/mega328_fish8840/main.o
+ADCconfig           0x6               ../Obj/mega328_fish8840/main.o
+lc_cpartmp          0x2               ../Obj/mega328_fish8840/sampling_lc.o
+pin_rpl             0x2               ../Obj/mega328_fish8840/main.o
+ref_mv              0x2               ../Obj/mega328_fish8840/main.o
+DC_Pwr_mode         0x1               ../Obj/mega328_fish8840/main.o
+tmpval2             0x1               ../Obj/mega328_fish8840/main.o
+UnCalibrated        0x1               ../Obj/mega328_fish8840/main.o
+pin_rmi             0x2               ../Obj/mega328_fish8840/main.o
+WithReference       0x1               ../Obj/mega328_fish8840/main.o
+_lcd_column         0x1               ../Obj/mega328_fish8840/main.o
+_trans              0x2               ../Obj/mega328_fish8840/main.o
+lc_qx               0x2               ../Obj/mega328_fish8840/sampling_lc.o
+last_line_used      0x1               ../Obj/mega328_fish8840/main.o
+_page               0x1               ../Obj/mega328_fish8840/lcd-routines.o
+ntrans              0x10              ../Obj/mega328_fish8840/main.o
+empty_count         0x1               ../Obj/mega328_fish8840/main.o
+pin_combination     0x1               ../Obj/mega328_fish8840/main.o
+ovcnt16             0x2               ../Obj/mega328_fish8840/main.o
+cell_mv             0x6               ../Obj/mega328_fish8840/main.o
+ResistorChecked     0x3               ../Obj/mega328_fish8840/main.o
+ResistorList        0x3               ../Obj/mega328_fish8840/main.o
+ptrans              0x10              ../Obj/mega328_fish8840/main.o
+pinchange_max       0x2               ../Obj/mega328_fish8840/main.o
+pinchange_count     0x2               ../Obj/mega328_fish8840/main.o
+adc_internal_reference
+                    0x2               ../Obj/mega328_fish8840/main.o
+ResistorsFound      0x1               ../Obj/mega328_fish8840/main.o
+unfinished          0x1               ../Obj/mega328_fish8840/main.o
+RHmultip            0x2               ../Obj/mega328_fish8840/main.o
+cap                 0x14              ../Obj/mega328_fish8840/main.o
+load_diff           0x2               ../Obj/mega328_fish8840/main.o
+diodes              0x18              ../Obj/mega328_fish8840/main.o
+inductor_lx         0x4               ../Obj/mega328_fish8840/main.o
+_xpos               0x1               ../Obj/mega328_fish8840/lcd-routines.o
+lcd_text_line       0x1               ../Obj/mega328_fish8840/main.o
+icon_xx             0x1               ../Obj/mega328_fish8840/lcd-routines.o
+lc_lx               0x4               ../Obj/mega328_fish8840/sampling_lc.o
+ResistorVal         0xc               ../Obj/mega328_fish8840/main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/lcd_hw_4_bit.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/lcd_hw_4_bit.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/lcd-routines.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/lcd-routines.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/lcd-routines.o
+ .text.lcd_write_word
+                0x00000000       0x18 ../Obj/mega328_fish8840/lcd-routines.o
+ .text.lcd_fix_customchar
+                0x00000000        0x2 ../Obj/mega328_fish8840/lcd-routines.o
+ .text.lcd_pgm_string
+                0x00000000       0x1e ../Obj/mega328_fish8840/lcd-routines.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/i2lcd.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/i2lcd.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/PinLayout.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/PinLayout.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/RvalOut.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/RvalOut.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/UfAusgabe.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/UfAusgabe.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/DisplayValue.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/DisplayValue.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/DisplayValue.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/lcd-draw.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/lcd-draw.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/lcd-draw.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/swuart.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/swuart.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/wait1000ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/wait1000ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/sleep_5ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/sleep_5ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/ReadADC.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/ReadADC.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/wait_for_key_ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/wait_for_key_ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/wait_for_key_ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/RefVoltage.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/RefVoltage.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/get_log.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/get_log.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/main.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/main.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/main.o
+ .progmem.data.bmp_inductor_data
+                0x00000000       0x12 ../Obj/mega328_fish8840/main.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/Battery_check.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/Battery_check.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/Battery_check.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/CheckPins.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/CheckPins.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/CheckPins.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/GetResistance.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/GetResistance.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/GetResistance.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/ChargePin10ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/ChargePin10ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/ChargePin10ms.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/EntladePins.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/EntladePins.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/EntladePins.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/ReadCapacity.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/ReadCapacity.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/ReadCapacity.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/GetRLmultip.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/GetRLmultip.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/Calibrate_UR.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/Calibrate_UR.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/Calibrate_UR.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/show_Resis_Cap.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/show_Resis_Cap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/show_Resis_Cap.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/ReadInductance.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/ReadInductance.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/ReadInductance.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/GetESR.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/GetESR.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/GetVloss.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/GetVloss.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/GetVloss.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/GetFrequency.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/GetFrequency.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/GetFrequency.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/function_menu.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/function_menu.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/function_menu.o
+ .text.show_vext
+                0x00000000        0x2 ../Obj/mega328_fish8840/function_menu.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/message_key_released.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/message_key_released.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/message_key_released.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/ReadBigCap.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/ReadBigCap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/ReadBigCap.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/CheckRotaryEncoder.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/CheckRotaryEncoder.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/CheckRotaryEncoder.o
+ .debug_info    0x00000000       0x5d ../Obj/mega328_fish8840/CheckRotaryEncoder.o
+ .debug_abbrev  0x00000000       0x26 ../Obj/mega328_fish8840/CheckRotaryEncoder.o
+ .debug_aranges
+                0x00000000       0x18 ../Obj/mega328_fish8840/CheckRotaryEncoder.o
+ .debug_line    0x00000000       0x1a ../Obj/mega328_fish8840/CheckRotaryEncoder.o
+ .debug_str     0x00000000      0x16c ../Obj/mega328_fish8840/CheckRotaryEncoder.o
+ .comment       0x00000000       0x31 ../Obj/mega328_fish8840/CheckRotaryEncoder.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/CalibrationCap.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/CalibrationCap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/CalibrationCap.o
+ .debug_info    0x00000000       0x5d ../Obj/mega328_fish8840/CalibrationCap.o
+ .debug_abbrev  0x00000000       0x26 ../Obj/mega328_fish8840/CalibrationCap.o
+ .debug_aranges
+                0x00000000       0x18 ../Obj/mega328_fish8840/CalibrationCap.o
+ .debug_line    0x00000000       0x1a ../Obj/mega328_fish8840/CalibrationCap.o
+ .debug_str     0x00000000      0x168 ../Obj/mega328_fish8840/CalibrationCap.o
+ .comment       0x00000000       0x31 ../Obj/mega328_fish8840/CalibrationCap.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/ShowData.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/ShowData.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/ShowData.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/CheckUJT.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/CheckUJT.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/CheckUJT.o
+ .debug_info    0x00000000       0x5d ../Obj/mega328_fish8840/CheckUJT.o
+ .debug_abbrev  0x00000000       0x26 ../Obj/mega328_fish8840/CheckUJT.o
+ .debug_aranges
+                0x00000000       0x18 ../Obj/mega328_fish8840/CheckUJT.o
+ .debug_line    0x00000000       0x1a ../Obj/mega328_fish8840/CheckUJT.o
+ .debug_str     0x00000000      0x162 ../Obj/mega328_fish8840/CheckUJT.o
+ .comment       0x00000000       0x31 ../Obj/mega328_fish8840/CheckUJT.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/EE_check_init.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/EE_check_init.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/EE_check_init.o
+ .text.EE_check_init
+                0x00000000        0x2 ../Obj/mega328_fish8840/EE_check_init.o
+ .debug_info    0x00000000       0x7f ../Obj/mega328_fish8840/EE_check_init.o
+ .debug_abbrev  0x00000000       0x44 ../Obj/mega328_fish8840/EE_check_init.o
+ .debug_aranges
+                0x00000000       0x20 ../Obj/mega328_fish8840/EE_check_init.o
+ .debug_ranges  0x00000000       0x10 ../Obj/mega328_fish8840/EE_check_init.o
+ .debug_line    0x00000000       0x3d ../Obj/mega328_fish8840/EE_check_init.o
+ .debug_str     0x00000000      0x175 ../Obj/mega328_fish8840/EE_check_init.o
+ .comment       0x00000000       0x31 ../Obj/mega328_fish8840/EE_check_init.o
+ .debug_frame   0x00000000       0x24 ../Obj/mega328_fish8840/EE_check_init.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/samplingADC.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/samplingADC.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/samplingADC.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/sampling_cap.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/sampling_cap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/sampling_cap.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/sampling_lc.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/sampling_lc.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/sampling_lc.o
+ .text          0x00000000        0x0 ../Obj/mega328_fish8840/sampling_xtal.o
+ .data          0x00000000        0x0 ../Obj/mega328_fish8840/sampling_xtal.o
+ .bss           0x00000000        0x0 ../Obj/mega328_fish8840/sampling_xtal.o
+ .debug_line    0x00000000        0x0 ../Obj/mega328_fish8840/sampling_xtal.o
+ .debug_str     0x00000000       0xf7 ../Obj/mega328_fish8840/sampling_xtal.o
+ .comment       0x00000000       0x31 ../Obj/mega328_fish8840/sampling_xtal.o
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_word.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_word.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_word.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_block.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_block.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_block.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+LOAD ../Obj/mega328_fish8840/lcd_hw_4_bit.o
+LOAD ../Obj/mega328_fish8840/lcd-routines.o
+LOAD ../Obj/mega328_fish8840/i2lcd.o
+LOAD ../Obj/mega328_fish8840/PinLayout.o
+LOAD ../Obj/mega328_fish8840/RvalOut.o
+LOAD ../Obj/mega328_fish8840/UfAusgabe.o
+LOAD ../Obj/mega328_fish8840/DisplayValue.o
+LOAD ../Obj/mega328_fish8840/lcd-draw.o
+LOAD ../Obj/mega328_fish8840/swuart.o
+LOAD ../Obj/mega328_fish8840/wait1000ms.o
+LOAD ../Obj/mega328_fish8840/sleep_5ms.o
+LOAD ../Obj/mega328_fish8840/ReadADC.o
+LOAD ../Obj/mega328_fish8840/wait_for_key_ms.o
+LOAD ../Obj/mega328_fish8840/RefVoltage.o
+LOAD ../Obj/mega328_fish8840/get_log.o
+LOAD ../Obj/mega328_fish8840/main.o
+LOAD ../Obj/mega328_fish8840/Battery_check.o
+LOAD ../Obj/mega328_fish8840/CheckPins.o
+LOAD ../Obj/mega328_fish8840/GetResistance.o
+LOAD ../Obj/mega328_fish8840/ChargePin10ms.o
+LOAD ../Obj/mega328_fish8840/EntladePins.o
+LOAD ../Obj/mega328_fish8840/ReadCapacity.o
+LOAD ../Obj/mega328_fish8840/GetRLmultip.o
+LOAD ../Obj/mega328_fish8840/Calibrate_UR.o
+LOAD ../Obj/mega328_fish8840/show_Resis_Cap.o
+LOAD ../Obj/mega328_fish8840/ReadInductance.o
+LOAD ../Obj/mega328_fish8840/GetESR.o
+LOAD ../Obj/mega328_fish8840/GetVloss.o
+LOAD ../Obj/mega328_fish8840/GetFrequency.o
+LOAD ../Obj/mega328_fish8840/function_menu.o
+LOAD ../Obj/mega328_fish8840/message_key_released.o
+LOAD ../Obj/mega328_fish8840/ReadBigCap.o
+LOAD ../Obj/mega328_fish8840/CheckRotaryEncoder.o
+LOAD ../Obj/mega328_fish8840/CalibrationCap.o
+LOAD ../Obj/mega328_fish8840/ShowData.o
+LOAD ../Obj/mega328_fish8840/CheckUJT.o
+LOAD ../Obj/mega328_fish8840/EE_check_init.o
+LOAD ../Obj/mega328_fish8840/samplingADC.o
+LOAD ../Obj/mega328_fish8840/sampling_cap.o
+LOAD ../Obj/mega328_fish8840/sampling_lc.o
+LOAD ../Obj/mega328_fish8840/sampling_xtal.o
+START GROUP
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x7dc0
+ *(.vectors)
+ .vectors       0x00000000       0x68 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.lcd_data
+                0x00000068       0x14 ../Obj/mega328_fish8840/lcd-routines.o
+ .progmem.gcc   0x0000007c      0x124 ../Obj/mega328_fish8840/samplingADC.o
+                0x0000007c                samplingADC_freqgen_sck
+                0x0000007c                samplingADC_freqgen
+                0x0000007c                samplingADC
+                0x000001a0                . = ALIGN (0x2)
+                0x000001a0                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000001a0        0x0 linker stubs
+ *(.trampolines*)
+                0x000001a0                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data.bmp_number
+                0x000001a0        0x6 ../Obj/mega328_fish8840/lcd-draw.o
+ .progmem.data.bmp_vakdiode
+                0x000001a6       0x20 ../Obj/mega328_fish8840/main.o
+                0x000001a6                bmp_vakdiode
+ .progmem.data.bmp_three_data
+                0x000001c6        0x7 ../Obj/mega328_fish8840/main.o
+                0x000001c6                bmp_three_data
+ .progmem.data.bmp_two_data
+                0x000001cd        0x7 ../Obj/mega328_fish8840/main.o
+                0x000001cd                bmp_two_data
+ .progmem.data.bmp_one_data
+                0x000001d4        0x7 ../Obj/mega328_fish8840/main.o
+                0x000001d4                bmp_one_data
+ .progmem.data.bmp_pnp
+                0x000001db        0x9 ../Obj/mega328_fish8840/main.o
+                0x000001db                bmp_pnp
+ .progmem.data.bmp_p_jfet
+                0x000001e4        0x7 ../Obj/mega328_fish8840/main.o
+                0x000001e4                bmp_p_jfet
+ .progmem.data.bmp_p_d_mos
+                0x000001eb       0x12 ../Obj/mega328_fish8840/main.o
+                0x000001eb                bmp_p_d_mos
+ .progmem.data.bmp_n_d_mos
+                0x000001fd        0x6 ../Obj/mega328_fish8840/main.o
+                0x000001fd                bmp_n_d_mos
+ .progmem.data.bmp_p_e_mos
+                0x00000203        0xa ../Obj/mega328_fish8840/main.o
+                0x00000203                bmp_p_e_mos
+ .progmem.data.bmp_p_d_igbt
+                0x0000020d       0x24 ../Obj/mega328_fish8840/main.o
+                0x0000020d                bmp_p_d_igbt
+ .progmem.data.bmp_n_d_igbt
+                0x00000231        0xc ../Obj/mega328_fish8840/main.o
+                0x00000231                bmp_n_d_igbt
+ .progmem.data.bmp_p_e_igbt
+                0x0000023d       0x18 ../Obj/mega328_fish8840/main.o
+                0x0000023d                bmp_p_e_igbt
+ .progmem.data.PinRLRHADCtab
+                0x00000255        0x6 ../Obj/mega328_fish8840/main.o
+                0x00000255                PinRLRHADCtab
+ .progmem.data.HelpCalibration_str
+                0x0000025b      0x194 ../Obj/mega328_fish8840/main.o
+                0x0000025b                HelpCalibration_str
+ .progmem.data.RHtab
+                0x000003ef       0x12 ../Obj/mega328_fish8840/main.o
+                0x000003ef                RHtab
+ .progmem.data.LogTab
+                0x00000401       0x66 ../Obj/mega328_fish8840/main.o
+                0x00000401                LogTab
+ .progmem.data.bigfont
+                0x00000467      0x2a0 ../Obj/mega328_fish8840/main.o
+                0x00000467                bigfont
+ .progmem.data.font
+                0x00000707      0x930 ../Obj/mega328_fish8840/main.o
+                0x00000707                font
+                0x00001038                . = ALIGN (0x2)
+ *fill*         0x00001037        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00001038                __ctors_start = .
+ *(.ctors)
+                0x00001038                __ctors_end = .
+                0x00001038                __dtors_start = .
+ *(.dtors)
+                0x00001038                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00001038        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00001038                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00001038        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00001044       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x00001044                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00001054        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000105c        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+                0x0000105c                __vector_22
+                0x0000105c                __vector_1
+                0x0000105c                __vector_24
+                0x0000105c                __bad_interrupt
+                0x0000105c                __vector_6
+                0x0000105c                __vector_3
+                0x0000105c                __vector_23
+                0x0000105c                __vector_25
+                0x0000105c                __vector_17
+                0x0000105c                __vector_19
+                0x0000105c                __vector_4
+                0x0000105c                __vector_9
+                0x0000105c                __vector_2
+                0x0000105c                __vector_15
+                0x0000105c                __vector_8
+                0x0000105c                __vector_14
+                0x0000105c                __vector_18
+                0x0000105c                __vector_20
+ .text          0x00001060       0x78 ../Obj/mega328_fish8840/lcd_hw_4_bit.o
+                0x00001060                _lcd_hw_write
+ .text          0x000010d8       0x2c ../Obj/mega328_fish8840/i2lcd.o
+                0x000010d8                i2lcd
+                0x000010ee                u2lcd
+                0x000010fc                i2lcd_space
+                0x00001100                u2lcd_space
+ .text          0x00001104       0xbc ../Obj/mega328_fish8840/PinLayout.o
+                0x00001104                PinLayout
+                0x00001152                PinLayoutLine
+                0x000011ac                Rnum2pins
+ .text          0x000011c0       0x4a ../Obj/mega328_fish8840/RvalOut.o
+                0x000011c0                RvalOut
+ .text          0x0000120a       0xba ../Obj/mega328_fish8840/UfAusgabe.o
+                0x0000120a                mVAusgabe
+                0x00001226                UfAusgabe
+                0x00001252                SerienDiodenAusgabe
+                0x00001274                DiodeSymbol_withPins
+                0x0000128c                DiodeSymbol_ApinCpin
+                0x00001298                DiodeSymbol_ACpin
+                0x000012a8                DiodeSymbol_CpinApin
+                0x000012b4                DiodeSymbol_CApin
+ .text          0x000012c4       0x26 ../Obj/mega328_fish8840/swuart.o
+                0x000012c4                uart_putc
+ .text          0x000012ea       0x4c ../Obj/mega328_fish8840/wait1000ms.o
+                0x000012ea                wait5s
+                0x000012ec                wait4s
+                0x000012ee                wait3s
+                0x000012f0                wait2s
+                0x000012f2                wait1000ms
+                0x000012f2                wait1s
+                0x000012f4                wait500ms
+                0x000012f6                wait400ms
+                0x000012f8                wait300ms
+                0x000012fa                wait200ms
+                0x000012fc                wait100ms
+                0x000012fe                wait50ms
+                0x00001300                wait40ms
+                0x00001302                wait30ms
+                0x00001304                wait20ms
+                0x00001306                wait10ms
+                0x00001308                wait5ms
+                0x0000130c                wait4ms
+                0x0000130e                wait3ms
+                0x00001310                wait2ms
+                0x00001312                wait1ms
+                0x00001314                wait500us
+                0x00001316                wait400us
+                0x00001318                wait300us
+                0x0000131a                wait200us
+                0x0000131c                wait100us
+                0x0000131e                wait50us
+                0x00001320                wait40us
+                0x00001322                wait30us
+                0x00001324                wait20us
+                0x00001326                wait10us
+                0x00001328                wait5us
+                0x0000132a                wait4us
+                0x0000132c                wait3us
+                0x0000132e                wait2us
+                0x00001330                wait1us
+                0x00001332                wait500ns
+ .text          0x00001336       0x58 ../Obj/mega328_fish8840/sleep_5ms.o
+                0x00001336                sleep_5ms
+ .text          0x0000138e       0xfc ../Obj/mega328_fish8840/ReadADC.o
+                0x0000138e                W20msReadADC
+                0x00001396                W10msReadADC
+                0x0000139e                W5msReadADC
+                0x000013a6                ReadADC
+                0x00001462                abs_diff
+                0x0000146e                vcc_diff
+                0x00001478                unsigned_diff
+ .text          0x0000148a       0xb0 ../Obj/mega328_fish8840/RefVoltage.o
+                0x0000148a                RefVoltage
+ .text          0x0000153a       0x48 ../Obj/mega328_fish8840/get_log.o
+                0x0000153a                get_log
+ .text          0x00001582       0x7e ../Obj/mega328_fish8840/GetRLmultip.o
+                0x00001582                GetRLmultip
+ .text          0x00001600      0x348 ../Obj/mega328_fish8840/GetESR.o
+                0x00001600                GetESR
+                0x00001948                . = ALIGN (0x2)
+ *(.text.*)
+ .text.lcd_set_cursor
+                0x00001948       0x1c ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001948                lcd_set_cursor
+ .text.lcd_save_position
+                0x00001964       0x12 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001964                lcd_save_position
+ .text.lcd_restore_position
+                0x00001976        0xe ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001976                lcd_restore_position
+ .text.lcd_command
+                0x00001984        0x8 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001984                lcd_command
+ .text.lcd_powersave
+                0x0000198c        0xa ../Obj/mega328_fish8840/lcd-routines.o
+                0x0000198c                lcd_powersave
+ .text.uart_newline
+                0x00001996        0xa ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001996                uart_newline
+ .text.lcd_line1
+                0x000019a0        0xe ../Obj/mega328_fish8840/lcd-routines.o
+                0x000019a0                lcd_line1
+ .text.lcd_clear
+                0x000019ae       0x2e ../Obj/mega328_fish8840/lcd-routines.o
+                0x000019ae                lcd_clear
+ .text.lcd_init
+                0x000019dc       0x6a ../Obj/mega328_fish8840/lcd-routines.o
+                0x000019dc                lcd_init
+ .text.lcd_line2
+                0x00001a46       0x10 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001a46                lcd_line2
+ .text.lcd_line3
+                0x00001a56       0x10 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001a56                lcd_line3
+ .text.lcd_line4
+                0x00001a66       0x10 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001a66                lcd_line4
+ .text.reverse_byte
+                0x00001a76       0x20 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001a76                reverse_byte
+ .text.lcd_set_pixels
+                0x00001a96       0xf8 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001a96                lcd_set_pixels
+ .text.lcd_big_icon
+                0x00001b8e       0x58 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001b8e                lcd_big_icon
+ .text.lcd_update_icon_opt
+                0x00001be6       0x2c ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001be6                lcd_update_icon_opt
+ .text.lcd_update_icon
+                0x00001c12        0x6 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001c12                lcd_update_icon
+ .text.lcd_data
+                0x00001c18       0x94 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001c18                lcd_data
+ .text.lcd_testpin
+                0x00001cac        0x6 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001cac                lcd_testpin
+ .text.lcd_space
+                0x00001cb2        0x6 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001cb2                lcd_space
+ .text.lcd_spaces
+                0x00001cb8       0x22 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001cb8                lcd_spaces
+ .text.lcd_clear_line
+                0x00001cda        0xc ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001cda                lcd_clear_line
+ .text.lcd_next_line
+                0x00001ce6       0x48 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001ce6                lcd_next_line
+ .text.lcd_next_line_wait
+                0x00001d2e       0x10 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001d2e                lcd_next_line_wait
+ .text.lcd_clear_line1
+                0x00001d3e        0x8 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001d3e                lcd_clear_line1
+ .text.lcd_clear_line2
+                0x00001d46        0x8 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001d46                lcd_clear_line2
+ .text.lcd_equal
+                0x00001d4e        0x6 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001d4e                lcd_equal
+ .text.lcd_string
+                0x00001d54       0x16 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001d54                lcd_string
+ .text.lcd_fix_string
+                0x00001d6a       0x1e ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001d6a                lcd_fix_string
+ .text.lcd_pgm_bitmap
+                0x00001d88       0x16 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001d88                lcd_pgm_bitmap
+ .text.lcd_show_Cg
+                0x00001d9e       0x30 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001d9e                lcd_show_Cg
+ .text.lcd_show_rds
+                0x00001dce       0x28 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00001dce                lcd_show_rds
+ .text.DisplayValue
+                0x00001df6      0x1d2 ../Obj/mega328_fish8840/DisplayValue.o
+                0x00001df6                DisplayValue
+ .text.DisplayValue16
+                0x00001fc8       0x16 ../Obj/mega328_fish8840/DisplayValue.o
+                0x00001fc8                DisplayValue16
+ .text.Display_mV
+                0x00001fde       0x14 ../Obj/mega328_fish8840/DisplayValue.o
+                0x00001fde                Display_mV
+ .text.Display_Hz
+                0x00001ff2       0x14 ../Obj/mega328_fish8840/DisplayValue.o
+                0x00001ff2                Display_Hz
+ .text.lcd_draw_pin
+                0x00002006       0x24 ../Obj/mega328_fish8840/lcd-draw.o
+                0x00002006                lcd_draw_pin
+ .text.lcd_draw_trans_pins
+                0x0000202a       0x3e ../Obj/mega328_fish8840/lcd-draw.o
+                0x0000202a                lcd_draw_trans_pins
+ .text.ShowIcons
+                0x00002068      0x23c ../Obj/mega328_fish8840/lcd-draw.o
+                0x00002068                ShowIcons
+ .text.wait_for_key_ms
+                0x000022a4       0x78 ../Obj/mega328_fish8840/wait_for_key_ms.o
+                0x000022a4                wait_for_key_ms
+ .text.wait_for_key_5s_line2
+                0x0000231c       0x46 ../Obj/mega328_fish8840/wait_for_key_ms.o
+                0x0000231c                wait_for_key_5s_line2
+ .text.__vector_7
+                0x00002362        0x2 ../Obj/mega328_fish8840/main.o
+                0x00002362                __vector_7
+ .text.__vector_21
+                0x00002364        0x2 ../Obj/mega328_fish8840/main.o
+                0x00002364                __vector_21
+ .text.search_vak_diode
+                0x00002366       0x5e ../Obj/mega328_fish8840/main.o
+                0x00002366                search_vak_diode
+ .text.init_parts
+                0x000023c4       0x46 ../Obj/mega328_fish8840/main.o
+                0x000023c4                init_parts
+ .text.switch_tester_off
+                0x0000240a       0x24 ../Obj/mega328_fish8840/main.o
+                0x0000240a                switch_tester_off
+ .text.ShortedProbes
+                0x0000242e       0x86 ../Obj/mega328_fish8840/main.o
+                0x0000242e                ShortedProbes
+ .text.AllProbesShorted
+                0x000024b4       0x1e ../Obj/mega328_fish8840/main.o
+                0x000024b4                AllProbesShorted
+ .text.AutoCheck
+                0x000024d2      0x7c4 ../Obj/mega328_fish8840/main.o
+                0x000024d2                AutoCheck
+ .text.mark_as_uncalibrated
+                0x00002c96       0x24 ../Obj/mega328_fish8840/main.o
+                0x00002c96                mark_as_uncalibrated
+ .text.GetIr    0x00002cba       0x92 ../Obj/mega328_fish8840/main.o
+                0x00002cba                GetIr
+ .text.startup.main
+                0x00002d4c      0xbca ../Obj/mega328_fish8840/main.o
+                0x00002d4c                main
+ .text.Battery_check
+                0x00003916       0x98 ../Obj/mega328_fish8840/Battery_check.o
+                0x00003916                Battery_check
+ .text.expand_FET_quadratic
+                0x000039ae       0x50 ../Obj/mega328_fish8840/CheckPins.o
+                0x000039ae                expand_FET_quadratic
+ .text.CheckPins
+                0x000039fe      0xe2a ../Obj/mega328_fish8840/CheckPins.o
+                0x000039fe                CheckPins
+ .text.GetResistance
+                0x00004828      0x42c ../Obj/mega328_fish8840/GetResistance.o
+                0x00004828                GetResistance
+ .text.ChargePin10ms
+                0x00004c54       0x30 ../Obj/mega328_fish8840/ChargePin10ms.o
+                0x00004c54                ChargePin10ms
+ .text.EntladePins
+                0x00004c84      0x120 ../Obj/mega328_fish8840/EntladePins.o
+                0x00004c84                EntladePins
+ .text.Scale_C_with_vcc
+                0x00004da4       0x80 ../Obj/mega328_fish8840/ReadCapacity.o
+                0x00004da4                Scale_C_with_vcc
+ .text.ReadCapacity
+                0x00004e24      0x5b6 ../Obj/mega328_fish8840/ReadCapacity.o
+                0x00004e24                ReadCapacity
+ .text.__vector_13
+                0x000053da       0x4c ../Obj/mega328_fish8840/ReadCapacity.o
+                0x000053da                __vector_13
+ .text.__vector_10
+                0x00005426       0x44 ../Obj/mega328_fish8840/ReadCapacity.o
+                0x00005426                __vector_10
+ .text.Calibrate_UR
+                0x0000546a      0x1a2 ../Obj/mega328_fish8840/Calibrate_UR.o
+                0x0000546a                Calibrate_UR
+ .text.show_resis
+                0x0000560c      0x16a ../Obj/mega328_fish8840/show_Resis_Cap.o
+                0x0000560c                show_resis
+ .text.show_cap
+                0x00005776       0xee ../Obj/mega328_fish8840/show_Resis_Cap.o
+                0x00005776                show_cap
+ .text.Bat_update
+                0x00005864        0xe ../Obj/mega328_fish8840/show_Resis_Cap.o
+                0x00005864                Bat_update
+ .text.Pwr_mode_check
+                0x00005872       0x14 ../Obj/mega328_fish8840/show_Resis_Cap.o
+                0x00005872                Pwr_mode_check
+ .text.show_Resis13
+                0x00005886       0x8c ../Obj/mega328_fish8840/show_Resis_Cap.o
+                0x00005886                show_Resis13
+ .text.show_Cap13
+                0x00005912       0xf2 ../Obj/mega328_fish8840/show_Resis_Cap.o
+                0x00005912                show_Cap13
+ .text.ReadInductance
+                0x00005a04      0x484 ../Obj/mega328_fish8840/ReadInductance.o
+                0x00005a04                ReadInductance
+ .text.GetVloss
+                0x00005e88      0x1ba ../Obj/mega328_fish8840/GetVloss.o
+                0x00005e88                GetVloss
+ .text.GetFrequency
+                0x00006042      0x328 ../Obj/mega328_fish8840/GetFrequency.o
+                0x00006042                GetFrequency
+ .text.__vector_16
+                0x0000636a       0x4c ../Obj/mega328_fish8840/GetFrequency.o
+                0x0000636a                __vector_16
+ .text.__vector_11
+                0x000063b6       0x1c ../Obj/mega328_fish8840/GetFrequency.o
+                0x000063b6                __vector_11
+ .text.__vector_12
+                0x000063d2       0x1c ../Obj/mega328_fish8840/GetFrequency.o
+                0x000063d2                __vector_12
+ .text.__vector_5
+                0x000063ee       0x68 ../Obj/mega328_fish8840/GetFrequency.o
+                0x000063ee                __vector_5
+ .text.message2line
+                0x00006456       0x8a ../Obj/mega328_fish8840/function_menu.o
+                0x00006456                message2line
+ .text.show_C_ESR
+                0x000064e0       0xbe ../Obj/mega328_fish8840/function_menu.o
+                0x000064e0                show_C_ESR
+ .text.make_frequency
+                0x0000659e      0x324 ../Obj/mega328_fish8840/function_menu.o
+                0x0000659e                make_frequency
+ .text.do_10bit_PWM
+                0x000068c2      0x13c ../Obj/mega328_fish8840/function_menu.o
+                0x000068c2                do_10bit_PWM
+ .text.set_contrast
+                0x000069fe       0x72 ../Obj/mega328_fish8840/function_menu.o
+                0x000069fe                set_contrast
+ .text.set_big_cap_corr
+                0x00006a70       0x9a ../Obj/mega328_fish8840/function_menu.o
+                0x00006a70                set_big_cap_corr
+ .text.do_menu  0x00006b0a       0x68 ../Obj/mega328_fish8840/function_menu.o
+                0x00006b0a                do_menu
+ .text.function_menu
+                0x00006b72       0x98 ../Obj/mega328_fish8840/function_menu.o
+                0x00006b72                function_menu
+ .text.message_key_released
+                0x00006c0a       0x38 ../Obj/mega328_fish8840/message_key_released.o
+                0x00006c0a                message_key_released
+ .text.ReadBigCap
+                0x00006c42      0x272 ../Obj/mega328_fish8840/ReadBigCap.o
+                0x00006c42                ReadBigCap
+ .text.ShowData
+                0x00006eb4      0x1fe ../Obj/mega328_fish8840/ShowData.o
+                0x00006eb4                ShowData
+ .text.mylog    0x000070b2       0xb0 ../Obj/mega328_fish8840/sampling_cap.o
+ .text.sampling_cap
+                0x00007162      0x1c0 ../Obj/mega328_fish8840/sampling_cap.o
+                0x00007162                sampling_cap
+ .text.sampling_cap_calibrate
+                0x00007322       0xea ../Obj/mega328_fish8840/sampling_cap.o
+                0x00007322                sampling_cap_calibrate
+ .text.peaksearch
+                0x0000740c      0x23e ../Obj/mega328_fish8840/sampling_lc.o
+ .text.sampling_lc
+                0x0000764a      0x304 ../Obj/mega328_fish8840/sampling_lc.o
+                0x0000764a                sampling_lc
+ .text.sampling_lc_calibrate
+                0x0000794e       0x8c ../Obj/mega328_fish8840/sampling_lc.o
+                0x0000794e                sampling_lc_calibrate
+ .text.libgcc.mul
+                0x000079da       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+                0x000079da                __mulsi3
+ .text.libgcc.div
+                0x000079f8       0x18 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+                0x000079f8                __udivmodqi4
+ .text.libgcc.div
+                0x00007a10       0x28 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x00007a10                __udivmodhi4
+ .text.libgcc.div
+                0x00007a38       0x26 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                0x00007a38                _div
+                0x00007a38                __divmodhi4
+ .text.libgcc.div
+                0x00007a5e       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x00007a5e                __udivmodsi4
+ .text.libgcc.div
+                0x00007aa2       0x28 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                0x00007aa2                __divmodsi4
+ .text.libgcc.div
+                0x00007aca       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                0x00007aca                __negsi2
+ .text.libgcc   0x00007ada        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x00007ada                __tablejump2__
+ .text.libgcc.mul
+                0x00007ae6       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                0x00007ae6                __umulhisi3
+ .text.libgcc.mul
+                0x00007b04        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+                0x00007b04                __usmulhisi3
+                0x00007b06                __usmulhisi3_tail
+ .text.libgcc.mul
+                0x00007b10       0x14 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                0x00007b10                __muluhisi3
+ .text.libgcc.mul
+                0x00007b24        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+                0x00007b24                __mulshisi3
+                0x00007b28                __mulohisi3
+ .text.libgcc.mul
+                0x00007b30       0x4e c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+                0x00007b30                __umulsidi3
+                0x00007b32                __umulsidi3_helper
+ .text.libgcc.div
+                0x00007b7e       0x1a c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+                0x00007b7e                __umoddi3
+                0x00007b82                __udivdi3
+                0x00007b84                __udivdi3_umoddi3
+ .text.libgcc.div
+                0x00007b98       0xa2 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+                0x00007b98                __udivmod64
+ .text.libgcc.prologue
+                0x00007c3a       0x38 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                0x00007c3a                __prologue_saves__
+ .text.libgcc.prologue
+                0x00007c72       0x36 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                0x00007c72                __epilogue_restores__
+ .text.libgcc.mul
+                0x00007ca8       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+                0x00007ca8                __muldi3_6
+ .text.avr-libc
+                0x00007cb8       0x42 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+                0x00007cb8                __ultoa_ncheck
+                0x00007cba                __ultoa_common
+ .text.avr-libc
+                0x00007cfa       0x14 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+                0x00007cfa                __utoa
+                0x00007cfa                utoa
+ .text.avr-libc
+                0x00007d0e       0x32 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+                0x00007d0e                __utoa_ncheck
+                0x00007d10                __utoa_common
+ .text.avr-libc
+                0x00007d40       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x00007d40                strrev
+ .text.avr-libc
+                0x00007d60       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+                0x00007d60                eeprom_read_byte
+ .text.avr-libc
+                0x00007d70        0xa c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o)
+                0x00007d70                eeprom_read_word
+ .text.avr-libc
+                0x00007d7a       0x1c c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+                0x00007d7a                eeprom_write_byte
+                0x00007d7c                eeprom_write_r18
+ .text.avr-libc
+                0x00007d96        0x6 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_word.o)
+                0x00007d96                eeprom_write_word
+ .text.avr-libc
+                0x00007d9c       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_block.o)
+                0x00007d9c                eeprom_read_block
+                0x00007da0                eeprom_read_blraw
+                0x00007dbc                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00007dbc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x00007dbc                _exit
+                0x00007dbc                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00007dbc        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00007dc0                _etext = .
+
+.data           0x00800100        0x0 load address 0x00007dc0
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800100                . = ALIGN (0x2)
+                0x00800100                _edata = .
+                0x00800100                PROVIDE (__data_end, .)
+
+.bss            0x00800100       0xbe
+                0x00800100                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800100        0x6 ../Obj/mega328_fish8840/lcd-routines.o
+                0x00800100                icon_yy
+                0x00800101                last_text_column
+                0x00800102                last_text_line
+                0x00800103                _page
+                0x00800104                _xpos
+                0x00800105                icon_xx
+ COMMON         0x00800106       0xac ../Obj/mega328_fish8840/main.o
+                0x00800106                diode_sequence
+                0x00800107                ext_freq
+                0x0080010b                display_time
+                0x0080010d                resis680mi
+                0x0080010f                ref_mv_offs
+                0x00800111                NumOfDiodes
+                0x00800112                PartMode
+                0x00800113                PartFound
+                0x00800114                resis680pl
+                0x00800116                tmpval
+                0x00800117                adc_vcc_reference
+                0x00800119                inductor_lpre
+                0x0080011a                mess_count
+                0x0080011b                outval
+                0x00800125                ADCconfig
+                0x0080012b                pin_rpl
+                0x0080012d                ref_mv
+                0x0080012f                DC_Pwr_mode
+                0x00800130                tmpval2
+                0x00800131                UnCalibrated
+                0x00800132                pin_rmi
+                0x00800134                WithReference
+                0x00800135                _lcd_column
+                0x00800136                _trans
+                0x00800138                last_line_used
+                0x00800139                ntrans
+                0x00800149                empty_count
+                0x0080014a                pin_combination
+                0x0080014b                ovcnt16
+                0x0080014d                cell_mv
+                0x00800153                ResistorChecked
+                0x00800156                ResistorList
+                0x00800159                ptrans
+                0x00800169                pinchange_max
+                0x0080016b                pinchange_count
+                0x0080016d                adc_internal_reference
+                0x0080016f                ResistorsFound
+                0x00800170                unfinished
+                0x00800171                RHmultip
+                0x00800173                cap
+                0x00800187                load_diff
+                0x00800189                diodes
+                0x008001a1                inductor_lx
+                0x008001a5                lcd_text_line
+                0x008001a6                ResistorVal
+ COMMON         0x008001b2        0xc ../Obj/mega328_fish8840/sampling_lc.o
+                0x008001b2                lc_fx
+                0x008001b6                lc_cpartmp
+                0x008001b8                lc_qx
+                0x008001ba                lc_lx
+                0x008001be                PROVIDE (__bss_end, .)
+                0x00007dc0                __data_load_start = LOADADDR (.data)
+                0x00007dc0                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001be        0x0
+                0x008001be                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001be                PROVIDE (__noinit_end, .)
+                0x008001be                _end = .
+                0x008001be                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000      0x383
+ *(.eeprom*)
+ .eeprom        0x00810000      0x374 ../Obj/mega328_fish8840/main.o
+                0x00810006                cap_for_l_meas_str
+                0x00810016                REF_R_str
+                0x0081001d                REF_C_str
+                0x00810024                MinCap_str
+                0x0081002c                PrefixTab
+                0x00810034                CyrillicMuIcon
+                0x0081003c                CyrillicOmegaIcon
+                0x00810044                ResIcon3
+                0x0081004c                ResIcon2
+                0x00810054                ResIcon1
+                0x0081005c                DiodeIcon2
+                0x00810064                DiodeIcon1
+                0x0081006c                CapIcon
+                0x00810074                RDS_str
+                0x00810079                CMETER_13_str
+                0x0081007d                CAP_13_str
+                0x00810084                RESIS_13_str
+                0x0081008f                C_ESR_str
+                0x0081009b                FatTP2_str
+                0x008100a1                T50HZ
+                0x008100a7                C0samp_str
+                0x008100af                C0_str
+                0x008100b3                RILO_str
+                0x008100ba                RIHI_str
+                0x008100c1                R0_str
+                0x008100c5                RHRL_str
+                0x008100cb                RHRH_str
+                0x008100d9                RLRL_str
+                0x008100e7                RH1H_str
+                0x008100eb                RH1L_str
+                0x008100ef                RHfakt_str
+                0x008100f4                URef_str
+                0x008100f9                ICEs_str
+                0x008100ff                ICE0_str
+                0x00810105                VERSION_str
+                0x00810113                Inductor_str
+                0x00810118                Resistor_str
+                0x0081011d                Dioden
+                0x00810122                zQ_str
+                0x00810127                iF_str
+                0x0081012c                AT05volt
+                0x00810133                KatAn_str
+                0x00810137                AnKat_str
+                0x0081013b                Ir_str
+                0x0081013f                Lis_str
+                0x00810142                VLOSS_str
+                0x0081014a                ESR_str
+                0x00810150                VCC_str
+                0x00810155                Cell_str
+                0x0081015b                CapZeich
+                0x0081015f                Vgs_str
+                0x00810164                vt_str
+                0x00810169                Uf_str
+                0x0081016d                Ube_str
+                0x00810172                N123_str
+                0x00810178                Pin_str
+                0x0081017d                PNP_str
+                0x00810185                NPN_str
+                0x0081018d                Cap_str
+                0x00810190                GateCap_str
+                0x00810194                hfe_str
+                0x00810199                igbt_str
+                0x0081019f                jfet_str
+                0x008101a4                mosfet_str
+                0x008101a9                DC_Pwr_Mode_str
+                0x008101b5                OK_str
+                0x008101b8                Bat_str
+                0x008101be                CONTRAST_str
+                0x008101cc                SHORT_PROBES_str
+                0x008101d8                FULLCHECK_str
+                0x008101e8                TURN_str
+                0x008101f1                SetCapCorr_str
+                0x00810200                PWM_10bit_str
+                0x0081020b                F_GEN_str
+                0x00810217                OFF_str
+                0x00810220                SHOW_str
+                0x0081022e                VOLTAGE_str
+                0x00810238                FREQ_str
+                0x00810243                TESTER_str
+                0x00810253                SELECTION_str
+                0x0081025d                ATE
+                0x0081026c                RELPROBE
+                0x00810276                SELFTEST
+                0x00810286                TestTimedOut
+                0x0081028e                Detected
+                0x00810298                TestFailed1
+                0x008102a8                Unknown
+                0x008102b2                Thyristor
+                0x008102bb                Triac
+                0x008102c4                Bauteil
+                0x008102cb                TestFailed2
+                0x008102d5                BatEmpty
+                0x008102dc                BatWeak
+                0x008102e3                TestRunning
+                0x008102ee                RLtab
+                0x00810348                EE_Volume_Value
+                0x00810349                EE_ESR_ZEROtab
+                0x0081034d                big_cap_corr
+                0x0081034e                c_zero_tab2_hi
+                0x0081035c                c_zero_tab2_lo
+                0x0081036a                c_zero_tab
+                0x00810371                ref_offset
+                0x00810373                RefDiff
+ .eeprom        0x00810374        0xd ../Obj/mega328_fish8840/show_Resis_Cap.o
+                0x00810374                RL_METER_str
+ .eeprom        0x00810381        0x2 ../Obj/mega328_fish8840/sampling_lc.o
+                0x00810381                lc_cpar_ee
+                0x00810383                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 ../Obj/mega328_fish8840/lcd-routines.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/DisplayValue.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/lcd-draw.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/wait_for_key_ms.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/main.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/Battery_check.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/CheckPins.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/GetResistance.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/ChargePin10ms.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/EntladePins.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/ReadCapacity.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/Calibrate_UR.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/show_Resis_Cap.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/ReadInductance.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/GetVloss.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/GetFrequency.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/function_menu.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/message_key_released.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/ReadBigCap.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/ShowData.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/sampling_cap.o
+ .comment       0x00000030       0x31 ../Obj/mega328_fish8840/sampling_lc.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 c:/winavr-20100110/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x6d8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ../Obj/mega328_fish8840/lcd_hw_4_bit.o
+ .debug_aranges
+                0x00000020      0x130 ../Obj/mega328_fish8840/lcd-routines.o
+ .debug_aranges
+                0x00000150       0x20 ../Obj/mega328_fish8840/i2lcd.o
+ .debug_aranges
+                0x00000170       0x20 ../Obj/mega328_fish8840/PinLayout.o
+ .debug_aranges
+                0x00000190       0x20 ../Obj/mega328_fish8840/RvalOut.o
+ .debug_aranges
+                0x000001b0       0x20 ../Obj/mega328_fish8840/UfAusgabe.o
+ .debug_aranges
+                0x000001d0       0x38 ../Obj/mega328_fish8840/DisplayValue.o
+ .debug_aranges
+                0x00000208       0x30 ../Obj/mega328_fish8840/lcd-draw.o
+ .debug_aranges
+                0x00000238       0x20 ../Obj/mega328_fish8840/swuart.o
+ .debug_aranges
+                0x00000258       0x20 ../Obj/mega328_fish8840/wait1000ms.o
+ .debug_aranges
+                0x00000278       0x20 ../Obj/mega328_fish8840/sleep_5ms.o
+ .debug_aranges
+                0x00000298       0x20 ../Obj/mega328_fish8840/ReadADC.o
+ .debug_aranges
+                0x000002b8       0x28 ../Obj/mega328_fish8840/wait_for_key_ms.o
+ .debug_aranges
+                0x000002e0       0x20 ../Obj/mega328_fish8840/RefVoltage.o
+ .debug_aranges
+                0x00000300       0x20 ../Obj/mega328_fish8840/get_log.o
+ .debug_aranges
+                0x00000320       0x70 ../Obj/mega328_fish8840/main.o
+ .debug_aranges
+                0x00000390       0x20 ../Obj/mega328_fish8840/Battery_check.o
+ .debug_aranges
+                0x000003b0       0x28 ../Obj/mega328_fish8840/CheckPins.o
+ .debug_aranges
+                0x000003d8       0x20 ../Obj/mega328_fish8840/GetResistance.o
+ .debug_aranges
+                0x000003f8       0x20 ../Obj/mega328_fish8840/ChargePin10ms.o
+ .debug_aranges
+                0x00000418       0x20 ../Obj/mega328_fish8840/EntladePins.o
+ .debug_aranges
+                0x00000438       0x38 ../Obj/mega328_fish8840/ReadCapacity.o
+ .debug_aranges
+                0x00000470       0x20 ../Obj/mega328_fish8840/GetRLmultip.o
+ .debug_aranges
+                0x00000490       0x20 ../Obj/mega328_fish8840/Calibrate_UR.o
+ .debug_aranges
+                0x000004b0       0x48 ../Obj/mega328_fish8840/show_Resis_Cap.o
+ .debug_aranges
+                0x000004f8       0x20 ../Obj/mega328_fish8840/ReadInductance.o
+ .debug_aranges
+                0x00000518       0x20 ../Obj/mega328_fish8840/GetESR.o
+ .debug_aranges
+                0x00000538       0x20 ../Obj/mega328_fish8840/GetVloss.o
+ .debug_aranges
+                0x00000558       0x40 ../Obj/mega328_fish8840/GetFrequency.o
+ .debug_aranges
+                0x00000598       0x60 ../Obj/mega328_fish8840/function_menu.o
+ .debug_aranges
+                0x000005f8       0x20 ../Obj/mega328_fish8840/message_key_released.o
+ .debug_aranges
+                0x00000618       0x20 ../Obj/mega328_fish8840/ReadBigCap.o
+ .debug_aranges
+                0x00000638       0x20 ../Obj/mega328_fish8840/ShowData.o
+ .debug_aranges
+                0x00000658       0x20 ../Obj/mega328_fish8840/samplingADC.o
+ .debug_aranges
+                0x00000678       0x30 ../Obj/mega328_fish8840/sampling_cap.o
+ .debug_aranges
+                0x000006a8       0x30 ../Obj/mega328_fish8840/sampling_lc.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xc6a1
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0x5c ../Obj/mega328_fish8840/lcd_hw_4_bit.o
+ .debug_info    0x0000005c     0x11b0 ../Obj/mega328_fish8840/lcd-routines.o
+ .debug_info    0x0000120c       0x55 ../Obj/mega328_fish8840/i2lcd.o
+ .debug_info    0x00001261       0x59 ../Obj/mega328_fish8840/PinLayout.o
+ .debug_info    0x000012ba       0x57 ../Obj/mega328_fish8840/RvalOut.o
+ .debug_info    0x00001311       0x59 ../Obj/mega328_fish8840/UfAusgabe.o
+ .debug_info    0x0000136a      0x4a8 ../Obj/mega328_fish8840/DisplayValue.o
+ .debug_info    0x00001812      0xc2d ../Obj/mega328_fish8840/lcd-draw.o
+ .debug_info    0x0000243f       0x56 ../Obj/mega328_fish8840/swuart.o
+ .debug_info    0x00002495       0x5a ../Obj/mega328_fish8840/wait1000ms.o
+ .debug_info    0x000024ef       0x59 ../Obj/mega328_fish8840/sleep_5ms.o
+ .debug_info    0x00002548       0x57 ../Obj/mega328_fish8840/ReadADC.o
+ .debug_info    0x0000259f      0x231 ../Obj/mega328_fish8840/wait_for_key_ms.o
+ .debug_info    0x000027d0       0x5a ../Obj/mega328_fish8840/RefVoltage.o
+ .debug_info    0x0000282a       0x57 ../Obj/mega328_fish8840/get_log.o
+ .debug_info    0x00002881     0x38a3 ../Obj/mega328_fish8840/main.o
+ .debug_info    0x00006124      0x272 ../Obj/mega328_fish8840/Battery_check.o
+ .debug_info    0x00006396     0x11d8 ../Obj/mega328_fish8840/CheckPins.o
+ .debug_info    0x0000756e      0x63a ../Obj/mega328_fish8840/GetResistance.o
+ .debug_info    0x00007ba8       0xcc ../Obj/mega328_fish8840/ChargePin10ms.o
+ .debug_info    0x00007c74      0x1c2 ../Obj/mega328_fish8840/EntladePins.o
+ .debug_info    0x00007e36      0x5f4 ../Obj/mega328_fish8840/ReadCapacity.o
+ .debug_info    0x0000842a       0x5b ../Obj/mega328_fish8840/GetRLmultip.o
+ .debug_info    0x00008485      0x2c7 ../Obj/mega328_fish8840/Calibrate_UR.o
+ .debug_info    0x0000874c      0xbb3 ../Obj/mega328_fish8840/show_Resis_Cap.o
+ .debug_info    0x000092ff      0x49f ../Obj/mega328_fish8840/ReadInductance.o
+ .debug_info    0x0000979e       0x56 ../Obj/mega328_fish8840/GetESR.o
+ .debug_info    0x000097f4      0x31b ../Obj/mega328_fish8840/GetVloss.o
+ .debug_info    0x00009b0f      0x3e6 ../Obj/mega328_fish8840/GetFrequency.o
+ .debug_info    0x00009ef5      0xd13 ../Obj/mega328_fish8840/function_menu.o
+ .debug_info    0x0000ac08      0x122 ../Obj/mega328_fish8840/message_key_released.o
+ .debug_info    0x0000ad2a      0x3b1 ../Obj/mega328_fish8840/ReadBigCap.o
+ .debug_info    0x0000b0db      0x6ed ../Obj/mega328_fish8840/ShowData.o
+ .debug_info    0x0000b7c8       0x5b ../Obj/mega328_fish8840/samplingADC.o
+ .debug_info    0x0000b823      0x657 ../Obj/mega328_fish8840/sampling_cap.o
+ .debug_info    0x0000be7a      0x827 ../Obj/mega328_fish8840/sampling_lc.o
+
+.debug_abbrev   0x00000000     0x2550
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x14 ../Obj/mega328_fish8840/lcd_hw_4_bit.o
+ .debug_abbrev  0x00000014      0x2b1 ../Obj/mega328_fish8840/lcd-routines.o
+ .debug_abbrev  0x000002c5       0x14 ../Obj/mega328_fish8840/i2lcd.o
+ .debug_abbrev  0x000002d9       0x14 ../Obj/mega328_fish8840/PinLayout.o
+ .debug_abbrev  0x000002ed       0x14 ../Obj/mega328_fish8840/RvalOut.o
+ .debug_abbrev  0x00000301       0x14 ../Obj/mega328_fish8840/UfAusgabe.o
+ .debug_abbrev  0x00000315      0x1d8 ../Obj/mega328_fish8840/DisplayValue.o
+ .debug_abbrev  0x000004ed      0x1a6 ../Obj/mega328_fish8840/lcd-draw.o
+ .debug_abbrev  0x00000693       0x14 ../Obj/mega328_fish8840/swuart.o
+ .debug_abbrev  0x000006a7       0x14 ../Obj/mega328_fish8840/wait1000ms.o
+ .debug_abbrev  0x000006bb       0x14 ../Obj/mega328_fish8840/sleep_5ms.o
+ .debug_abbrev  0x000006cf       0x14 ../Obj/mega328_fish8840/ReadADC.o
+ .debug_abbrev  0x000006e3      0x129 ../Obj/mega328_fish8840/wait_for_key_ms.o
+ .debug_abbrev  0x0000080c       0x14 ../Obj/mega328_fish8840/RefVoltage.o
+ .debug_abbrev  0x00000820       0x14 ../Obj/mega328_fish8840/get_log.o
+ .debug_abbrev  0x00000834      0x387 ../Obj/mega328_fish8840/main.o
+ .debug_abbrev  0x00000bbb      0x106 ../Obj/mega328_fish8840/Battery_check.o
+ .debug_abbrev  0x00000cc1      0x1fc ../Obj/mega328_fish8840/CheckPins.o
+ .debug_abbrev  0x00000ebd      0x16e ../Obj/mega328_fish8840/GetResistance.o
+ .debug_abbrev  0x0000102b       0x91 ../Obj/mega328_fish8840/ChargePin10ms.o
+ .debug_abbrev  0x000010bc       0xd6 ../Obj/mega328_fish8840/EntladePins.o
+ .debug_abbrev  0x00001192      0x1ee ../Obj/mega328_fish8840/ReadCapacity.o
+ .debug_abbrev  0x00001380       0x14 ../Obj/mega328_fish8840/GetRLmultip.o
+ .debug_abbrev  0x00001394      0x111 ../Obj/mega328_fish8840/Calibrate_UR.o
+ .debug_abbrev  0x000014a5      0x22f ../Obj/mega328_fish8840/show_Resis_Cap.o
+ .debug_abbrev  0x000016d4      0x18c ../Obj/mega328_fish8840/ReadInductance.o
+ .debug_abbrev  0x00001860       0x14 ../Obj/mega328_fish8840/GetESR.o
+ .debug_abbrev  0x00001874      0x15b ../Obj/mega328_fish8840/GetVloss.o
+ .debug_abbrev  0x000019cf      0x177 ../Obj/mega328_fish8840/GetFrequency.o
+ .debug_abbrev  0x00001b46      0x28c ../Obj/mega328_fish8840/function_menu.o
+ .debug_abbrev  0x00001dd2       0xd0 ../Obj/mega328_fish8840/message_key_released.o
+ .debug_abbrev  0x00001ea2      0x1a0 ../Obj/mega328_fish8840/ReadBigCap.o
+ .debug_abbrev  0x00002042      0x106 ../Obj/mega328_fish8840/ShowData.o
+ .debug_abbrev  0x00002148       0x14 ../Obj/mega328_fish8840/samplingADC.o
+ .debug_abbrev  0x0000215c      0x1e1 ../Obj/mega328_fish8840/sampling_cap.o
+ .debug_abbrev  0x0000233d      0x213 ../Obj/mega328_fish8840/sampling_lc.o
+
+.debug_line     0x00000000     0x338e
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x7c ../Obj/mega328_fish8840/lcd_hw_4_bit.o
+ .debug_line    0x0000007c      0x46c ../Obj/mega328_fish8840/lcd-routines.o
+ .debug_line    0x000004e8       0x4d ../Obj/mega328_fish8840/i2lcd.o
+ .debug_line    0x00000535       0x9c ../Obj/mega328_fish8840/PinLayout.o
+ .debug_line    0x000005d1       0x5b ../Obj/mega328_fish8840/RvalOut.o
+ .debug_line    0x0000062c       0x9f ../Obj/mega328_fish8840/UfAusgabe.o
+ .debug_line    0x000006cb      0x162 ../Obj/mega328_fish8840/DisplayValue.o
+ .debug_line    0x0000082d      0x190 ../Obj/mega328_fish8840/lcd-draw.o
+ .debug_line    0x000009bd       0x4c ../Obj/mega328_fish8840/swuart.o
+ .debug_line    0x00000a09       0x68 ../Obj/mega328_fish8840/wait1000ms.o
+ .debug_line    0x00000a71       0x61 ../Obj/mega328_fish8840/sleep_5ms.o
+ .debug_line    0x00000ad2       0x9c ../Obj/mega328_fish8840/ReadADC.o
+ .debug_line    0x00000b6e      0x106 ../Obj/mega328_fish8840/wait_for_key_ms.o
+ .debug_line    0x00000c74       0x83 ../Obj/mega328_fish8840/RefVoltage.o
+ .debug_line    0x00000cf7       0x59 ../Obj/mega328_fish8840/get_log.o
+ .debug_line    0x00000d50      0x780 ../Obj/mega328_fish8840/main.o
+ .debug_line    0x000014d0       0xd8 ../Obj/mega328_fish8840/Battery_check.o
+ .debug_line    0x000015a8      0x36b ../Obj/mega328_fish8840/CheckPins.o
+ .debug_line    0x00001913      0x15a ../Obj/mega328_fish8840/GetResistance.o
+ .debug_line    0x00001a6d       0x85 ../Obj/mega328_fish8840/ChargePin10ms.o
+ .debug_line    0x00001af2      0x11c ../Obj/mega328_fish8840/EntladePins.o
+ .debug_line    0x00001c0e      0x26d ../Obj/mega328_fish8840/ReadCapacity.o
+ .debug_line    0x00001e7b       0x76 ../Obj/mega328_fish8840/GetRLmultip.o
+ .debug_line    0x00001ef1       0xd5 ../Obj/mega328_fish8840/Calibrate_UR.o
+ .debug_line    0x00001fc6      0x1fd ../Obj/mega328_fish8840/show_Resis_Cap.o
+ .debug_line    0x000021c3      0x1a8 ../Obj/mega328_fish8840/ReadInductance.o
+ .debug_line    0x0000236b      0x1b0 ../Obj/mega328_fish8840/GetESR.o
+ .debug_line    0x0000251b      0x115 ../Obj/mega328_fish8840/GetVloss.o
+ .debug_line    0x00002630      0x1a6 ../Obj/mega328_fish8840/GetFrequency.o
+ .debug_line    0x000027d6      0x3a3 ../Obj/mega328_fish8840/function_menu.o
+ .debug_line    0x00002b79       0xa7 ../Obj/mega328_fish8840/message_key_released.o
+ .debug_line    0x00002c20      0x14a ../Obj/mega328_fish8840/ReadBigCap.o
+ .debug_line    0x00002d6a      0x137 ../Obj/mega328_fish8840/ShowData.o
+ .debug_line    0x00002ea1       0xc3 ../Obj/mega328_fish8840/samplingADC.o
+ .debug_line    0x00002f64      0x1a8 ../Obj/mega328_fish8840/sampling_cap.o
+ .debug_line    0x0000310c      0x282 ../Obj/mega328_fish8840/sampling_lc.o
+
+.debug_frame    0x00000000      0xd90
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x2e8 ../Obj/mega328_fish8840/lcd-routines.o
+ .debug_frame   0x000002e8       0x94 ../Obj/mega328_fish8840/DisplayValue.o
+ .debug_frame   0x0000037c       0x60 ../Obj/mega328_fish8840/lcd-draw.o
+ .debug_frame   0x000003dc       0x5c ../Obj/mega328_fish8840/wait_for_key_ms.o
+ .debug_frame   0x00000438      0x150 ../Obj/mega328_fish8840/main.o
+ .debug_frame   0x00000588       0x38 ../Obj/mega328_fish8840/Battery_check.o
+ .debug_frame   0x000005c0       0x68 ../Obj/mega328_fish8840/CheckPins.o
+ .debug_frame   0x00000628       0x4c ../Obj/mega328_fish8840/GetResistance.o
+ .debug_frame   0x00000674       0x2c ../Obj/mega328_fish8840/ChargePin10ms.o
+ .debug_frame   0x000006a0       0x3c ../Obj/mega328_fish8840/EntladePins.o
+ .debug_frame   0x000006dc       0xb8 ../Obj/mega328_fish8840/ReadCapacity.o
+ .debug_frame   0x00000794       0x40 ../Obj/mega328_fish8840/Calibrate_UR.o
+ .debug_frame   0x000007d4       0xc0 ../Obj/mega328_fish8840/show_Resis_Cap.o
+ .debug_frame   0x00000894       0x4c ../Obj/mega328_fish8840/ReadInductance.o
+ .debug_frame   0x000008e0       0x5c ../Obj/mega328_fish8840/GetVloss.o
+ .debug_frame   0x0000093c       0xe8 ../Obj/mega328_fish8840/GetFrequency.o
+ .debug_frame   0x00000a24      0x134 ../Obj/mega328_fish8840/function_menu.o
+ .debug_frame   0x00000b58       0x30 ../Obj/mega328_fish8840/message_key_released.o
+ .debug_frame   0x00000b88       0x40 ../Obj/mega328_fish8840/ReadBigCap.o
+ .debug_frame   0x00000bc8       0x48 ../Obj/mega328_fish8840/ShowData.o
+ .debug_frame   0x00000c10       0xdc ../Obj/mega328_fish8840/sampling_cap.o
+ .debug_frame   0x00000cec       0xa4 ../Obj/mega328_fish8840/sampling_lc.o
+
+.debug_str      0x00000000     0x18b4
+ *(.debug_str)
+ .debug_str     0x00000000      0x4e8 ../Obj/mega328_fish8840/lcd-routines.o
+                                0x569 (size before relaxing)
+ .debug_str     0x000004e8       0xab ../Obj/mega328_fish8840/DisplayValue.o
+                                0x26f (size before relaxing)
+ .debug_str     0x00000593      0x157 ../Obj/mega328_fish8840/lcd-draw.o
+                                0x3b3 (size before relaxing)
+ .debug_str     0x000006ea       0x49 ../Obj/mega328_fish8840/wait_for_key_ms.o
+                                0x239 (size before relaxing)
+ .debug_str     0x00000733      0x984 ../Obj/mega328_fish8840/main.o
+                                0xef2 (size before relaxing)
+ .debug_str     0x000010b7       0x33 ../Obj/mega328_fish8840/Battery_check.o
+                                0x239 (size before relaxing)
+ .debug_str     0x000010ea      0x175 ../Obj/mega328_fish8840/CheckPins.o
+                                0x3ce (size before relaxing)
+ .debug_str     0x0000125f       0x33 ../Obj/mega328_fish8840/GetResistance.o
+                                0x356 (size before relaxing)
+ .debug_str     0x00001292       0x2f ../Obj/mega328_fish8840/ChargePin10ms.o
+                                0x1a3 (size before relaxing)
+ .debug_str     0x000012c1       0x31 ../Obj/mega328_fish8840/EntladePins.o
+                                0x1d2 (size before relaxing)
+ .debug_str     0x000012f2       0xd7 ../Obj/mega328_fish8840/ReadCapacity.o
+                                0x3e2 (size before relaxing)
+ .debug_str     0x000013c9       0x30 ../Obj/mega328_fish8840/Calibrate_UR.o
+                                0x25f (size before relaxing)
+ .debug_str     0x000013f9       0xef ../Obj/mega328_fish8840/show_Resis_Cap.o
+                                0x4e0 (size before relaxing)
+ .debug_str     0x000014e8       0x92 ../Obj/mega328_fish8840/ReadInductance.o
+                                0x32c (size before relaxing)
+ .debug_str     0x0000157a       0x20 ../Obj/mega328_fish8840/GetVloss.o
+                                0x258 (size before relaxing)
+ .debug_str     0x0000159a       0x76 ../Obj/mega328_fish8840/GetFrequency.o
+                                0x2a9 (size before relaxing)
+ .debug_str     0x00001610      0x134 ../Obj/mega328_fish8840/function_menu.o
+                                0x55f (size before relaxing)
+ .debug_str     0x00001744       0x21 ../Obj/mega328_fish8840/message_key_released.o
+                                0x1c5 (size before relaxing)
+ .debug_str     0x00001765       0x21 ../Obj/mega328_fish8840/ReadBigCap.o
+                                0x2b9 (size before relaxing)
+ .debug_str     0x00001786        0xe ../Obj/mega328_fish8840/ShowData.o
+                                0x310 (size before relaxing)
+ .debug_str     0x00001794       0x60 ../Obj/mega328_fish8840/sampling_cap.o
+                                0x320 (size before relaxing)
+ .debug_str     0x000017f4       0xc0 ../Obj/mega328_fish8840/sampling_lc.o
+                                0x3be (size before relaxing)
+
+.debug_loc      0x00000000     0x7033
+ *(.debug_loc)
+ .debug_loc     0x00000000      0xb05 ../Obj/mega328_fish8840/lcd-routines.o
+ .debug_loc     0x00000b05      0x4c8 ../Obj/mega328_fish8840/DisplayValue.o
+ .debug_loc     0x00000fcd      0x18c ../Obj/mega328_fish8840/lcd-draw.o
+ .debug_loc     0x00001159      0x14a ../Obj/mega328_fish8840/wait_for_key_ms.o
+ .debug_loc     0x000012a3      0xac0 ../Obj/mega328_fish8840/main.o
+ .debug_loc     0x00001d63       0x8a ../Obj/mega328_fish8840/Battery_check.o
+ .debug_loc     0x00001ded     0x19f5 ../Obj/mega328_fish8840/CheckPins.o
+ .debug_loc     0x000037e2      0x940 ../Obj/mega328_fish8840/GetResistance.o
+ .debug_loc     0x00004122       0x72 ../Obj/mega328_fish8840/ChargePin10ms.o
+ .debug_loc     0x00004194      0x19f ../Obj/mega328_fish8840/EntladePins.o
+ .debug_loc     0x00004333      0x3b7 ../Obj/mega328_fish8840/ReadCapacity.o
+ .debug_loc     0x000046ea       0x72 ../Obj/mega328_fish8840/Calibrate_UR.o
+ .debug_loc     0x0000475c      0x30e ../Obj/mega328_fish8840/show_Resis_Cap.o
+ .debug_loc     0x00004a6a      0x3e1 ../Obj/mega328_fish8840/ReadInductance.o
+ .debug_loc     0x00004e4b      0x2ca ../Obj/mega328_fish8840/GetVloss.o
+ .debug_loc     0x00005115      0x2db ../Obj/mega328_fish8840/GetFrequency.o
+ .debug_loc     0x000053f0      0xa2f ../Obj/mega328_fish8840/function_menu.o
+ .debug_loc     0x00005e1f       0x8b ../Obj/mega328_fish8840/message_key_released.o
+ .debug_loc     0x00005eaa       0xe7 ../Obj/mega328_fish8840/ReadBigCap.o
+ .debug_loc     0x00005f91      0x101 ../Obj/mega328_fish8840/ShowData.o
+ .debug_loc     0x00006092      0x5cf ../Obj/mega328_fish8840/sampling_cap.o
+ .debug_loc     0x00006661      0x9d2 ../Obj/mega328_fish8840/sampling_lc.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x468
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x138 ../Obj/mega328_fish8840/lcd-routines.o
+ .debug_ranges  0x00000138       0x28 ../Obj/mega328_fish8840/DisplayValue.o
+ .debug_ranges  0x00000160       0x20 ../Obj/mega328_fish8840/lcd-draw.o
+ .debug_ranges  0x00000180       0x18 ../Obj/mega328_fish8840/wait_for_key_ms.o
+ .debug_ranges  0x00000198       0x80 ../Obj/mega328_fish8840/main.o
+ .debug_ranges  0x00000218       0x10 ../Obj/mega328_fish8840/Battery_check.o
+ .debug_ranges  0x00000228       0x18 ../Obj/mega328_fish8840/CheckPins.o
+ .debug_ranges  0x00000240       0x10 ../Obj/mega328_fish8840/GetResistance.o
+ .debug_ranges  0x00000250       0x10 ../Obj/mega328_fish8840/ChargePin10ms.o
+ .debug_ranges  0x00000260       0x10 ../Obj/mega328_fish8840/EntladePins.o
+ .debug_ranges  0x00000270       0x28 ../Obj/mega328_fish8840/ReadCapacity.o
+ .debug_ranges  0x00000298       0x10 ../Obj/mega328_fish8840/Calibrate_UR.o
+ .debug_ranges  0x000002a8       0x38 ../Obj/mega328_fish8840/show_Resis_Cap.o
+ .debug_ranges  0x000002e0       0x10 ../Obj/mega328_fish8840/ReadInductance.o
+ .debug_ranges  0x000002f0       0x10 ../Obj/mega328_fish8840/GetVloss.o
+ .debug_ranges  0x00000300       0x30 ../Obj/mega328_fish8840/GetFrequency.o
+ .debug_ranges  0x00000330       0x88 ../Obj/mega328_fish8840/function_menu.o
+ .debug_ranges  0x000003b8       0x10 ../Obj/mega328_fish8840/message_key_released.o
+ .debug_ranges  0x000003c8       0x10 ../Obj/mega328_fish8840/ReadBigCap.o
+ .debug_ranges  0x000003d8       0x10 ../Obj/mega328_fish8840/ShowData.o
+ .debug_ranges  0x000003e8       0x38 ../Obj/mega328_fish8840/sampling_cap.o
+ .debug_ranges  0x00000420       0x48 ../Obj/mega328_fish8840/sampling_lc.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(../Obj/mega328_fish8840/mega328_fish8840.elf elf32-avr)
+LOAD linker stubs
